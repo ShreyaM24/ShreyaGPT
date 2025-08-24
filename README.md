@@ -33,8 +33,8 @@ This project demonstrates real-time conversational AI, thread management, and sc
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/chatgpt-clone.git
-cd chatgpt-clone
+git clone https://github.com/ShreyaM24/ShreyaGPT.git
+cd ShreyaGPT
 ````
 
 ### 2️⃣ Setup Backend
